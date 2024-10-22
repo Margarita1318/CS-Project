@@ -1,0 +1,10 @@
+.topbar{
+    background-color:lightgreen;
+    color: white;
+    font-size: xx-large;
+    }
+    .bottombar{
+        background-color: seagreen;
+        color: white;
+        text-align: center;
+    }
