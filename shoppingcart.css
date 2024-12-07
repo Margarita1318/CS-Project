@@ -80,32 +80,3 @@ body {
     background-color: #79d2fe;
   }
 
-  .products {
-    display: flex;
-    justify-content: space-around;
-    padding: 20px;
-}
-
-.product {
-    background-color: white;
-    padding: 15px;
-    border-radius: 5px;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-    text-align: center;
-}
-
-button {
-    padding: 10px;
-    background-color: #333;
-    color: white;
-    border: none;
-    cursor: pointer;
-}
-
-button:hover {
-    background-color: #555;
-}
-
-#cart-items {
-    padding: 20px;
-}
